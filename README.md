@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Who am I?
 🎓 Third-year Information Technology student at SSN College of Engineering<br><br>🧠 Passionate about solving real-world problems through AI, ML, and data-driven insights<br><br>💻 Proficient in Python, C++, JavaScript, HTML, CSS, SQL, and Git<br><br>🛠️ Experienced with tools like VS Code, GitHub, Bootstrap, Figma, MySQL, NumPy, scikit-learn, Linux<br><br>🚀 Open-source contributor and builder of impactful tech projects<br><br>📊 Interested in Quant, AI research, and building tools that make life easier and smarter<br><br>🎤 Strong communicator – public speaking, leadership, and analytical thinking are my strengths<br><br>🎶 Huge fan of BTS; creativity inspires my code<br><br>
 
 
