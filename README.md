@@ -5,22 +5,22 @@
 <div align="center">
 
 ```text
-+----------------------------------------------------------+
-|                      STATUS WINDOW                       |
-+----------------------------------------------------------+
-|  NAME    : Saathviga                                     |
-|  CLASS   : AI/ML Researcher (NLP Specialization)         |
-|  GUILD   : SSN College of Engineering                    |
-|  LEVEL   : Final Year (4/4)                              |
-|  TITLE   : "Still Building"                              |
-+----------------------------------------------------------+
-|  HP  [####################] 100%  (playlists fueled)     |
-|  MP  [################----]  85%  (mid-experiment)       |
-+----------------------------------------------------------+
-|  SKILLS  : AI/ML, NLP, Vision-Language Models            |
-|  PASSIVE : "why did the model do that?"                  |
-|  STATUS  : open to collabs & interesting problems        |
-+----------------------------------------------------------+
++---------------------------------------------------------------+
+|                         STATUS WINDOW                         |
++---------------------------------------------------------------+
+|  NAME    : Saathviga                                          |
+|  CLASS   : AI/ML Researcher (NLP Specialization)              |
+|  GUILD   : SSN College of Engineering                         |
+|  LEVEL   : Final Year (4/4)                                   |
+|  TITLE   : "Still Building"                                   |
++---------------------------------------------------------------+
+|  HP  [####################] 100%  (fueled by good playlists)  |
+|  MP  [################----]  85%  (mid-experiment)            |
++---------------------------------------------------------------+
+|  SKILLS  : AI/ML, NLP, Vision-Language Models                 |
+|  PASSIVE : "why did the model do that?"                       |
+|  STATUS  : open to collabs & interesting problems             |
++---------------------------------------------------------------+
 ```
 
 </div>
@@ -330,11 +330,11 @@ If you're interested in AI, ML, NLP, research, or hackathons, I'm always happy t
 <div align="center">
 
 ```text
-+----------------------------------------------------------+
-|                        QUEST LOG                         |
-+----------------------------------------------------------+
-|               reach out - I actually reply               |
-+----------------------------------------------------------+
++---------------------------------------------------------------+
+|                           QUEST LOG                           |
++---------------------------------------------------------------+
+|                 reach out - I actually reply                  |
++---------------------------------------------------------------+
 ```
 
 </div>
