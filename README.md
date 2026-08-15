@@ -9,7 +9,7 @@
 |                         STATUS WINDOW                         |
 +---------------------------------------------------------------+
 |  NAME    : Saathviga                                          |
-|  CLASS   : AI/ML Researcher (NLP Specialization)              |
+|  CLASS   : AI/ML Enthusiast (With a bit of NLP and LLM too)   |
 |  GUILD   : SSN College of Engineering                         |
 |  LEVEL   : Final Year (4/4)                                   |
 |  TITLE   : "Still Building"                                   |
@@ -17,7 +17,7 @@
 |  HP  [####################] 100%  (fueled by good playlists)  |
 |  MP  [################----]  85%  (mid-experiment)            |
 +---------------------------------------------------------------+
-|  SKILLS  : AI/ML, NLP, Vision-Language Models                 |
+|  SKILLS  : AI/ML, NLP, Large Language Models                  |
 |  PASSIVE : "why did the model do that?"                       |
 |  STATUS  : open to collabs & interesting problems             |
 +---------------------------------------------------------------+
