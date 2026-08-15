@@ -48,9 +48,8 @@ I care as much about understanding *why* something works as I do about building 
 **Quick facts**
 
 - 🎓 Final-year IT student, SSN College of Engineering
-- 🔬 Research focus: AI/ML, NLP, multilingual vision-language systems
-- 📡 Also exploring: ML-based optimization for 5G networks
-- 📫 Open to research collaborations and interesting problems
+- 🔬 General focus: AI/ML, NLP, multilingual vision-language systems
+- 📫 Open to collaborations and interesting problems
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1B1035,100:F08A5D" width="100%"/>
