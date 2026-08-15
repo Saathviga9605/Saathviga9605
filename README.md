@@ -4,13 +4,13 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1B1035,50:6A2C70,100:F08A5D&text=SAATHVIGA%20B&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Final-Year%20IT%20Student%20%40%20SSN%20College%20of%20Engineering&descAlignY=58&descSize=15&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1B1035,50:6A2C70,100:F08A5D&text=SAATHVIGA&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Final-Year%20IT%20Student%20%40%20SSN%20College%20of%20Engineering&descAlignY=58&descSize=15&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=F08A5D&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+NLP+%7C+Intelligent+Systems;Researching+multilingual+vision-language+models;Exploring+ML-driven+5G+network+optimization" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=F08A5D&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+NLP+%7C+Intelligent+Systems;Researching+multiple+models;Exploring+ML" />
 </p>
 
 <p align="center">
