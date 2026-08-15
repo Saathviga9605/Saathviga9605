@@ -132,7 +132,6 @@ Fast iteration under a deadline, turning a problem statement into a working prot
 </tr>
 </table>
 
-*(Pinned repositories below have the specifics — this is just the general shape of what I work on.)*
 
 ---
 
