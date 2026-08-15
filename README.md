@@ -1,11 +1,318 @@
-# Who am I?
-🎓 Final-year Information Technology student at SSN College of Engineering<br><br>🧠 Passionate about solving real-world problems through AI, ML, and data-driven insights<br><br>💻 Proficient in Python, C++, JavaScript, HTML, CSS, SQL, and Git<br><br>🛠️ Experienced with tools like VS Code, GitHub, Bootstrap, Figma, MySQL, NumPy, scikit-learn, Linux<br><br>🚀 Open-source contributor and builder of impactful tech projects<br><br>📊 Interested in Quant, AI research, and building tools that make life easier and smarter<br><br>🎤 Strong communicator – public speaking, leadership, and analytical thinking are my strengths<br><br>🎶 Huge fan of BTS; creativity inspires my code<br><br>
+<!-- ========================================================= -->
+<!--                     HERO / HEADER                         -->
+<!-- ========================================================= -->
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1B1035,50:6A2C70,100:F08A5D&text=SAATHVIGA%20B&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Final-Year%20IT%20Student%20%40%20SSN%20College%20of%20Engineering&descAlignY=58&descSize=15&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz_saathviga/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saathvigab/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saathviga9605@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=F08A5D&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+NLP+%7C+Intelligent+Systems;Researching+multilingual+vision-language+models;Exploring+ML-driven+5G+network+optimization" />
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-final--year%20student-1B1035?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-AI%2FML%20%26%20NLP-6A2C70?style=flat-square" />
+  <img src="https://img.shields.io/badge/open%20to-research%20collaborations-F08A5D?style=flat-square" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/saathvigab/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:saathviga9605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Saathviga9605">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       INTRO                                -->
+<!-- ========================================================= -->
+
+## About Me
+
+I'm a final-year Information Technology student at SSN College of Engineering with a strong focus on **AI/ML and NLP**. I like working on problems where data, language, and systems intersect — from multilingual vision-language models to network optimization using machine learning.
+
+I care as much about understanding *why* something works as I do about building it, and I try to take ideas from an early hypothesis to a working, tested implementation rather than leaving them as drafts.
+
+**Quick facts**
+
+- 🎓 Final-year IT student, SSN College of Engineering
+- 🔬 Research focus: AI/ML, NLP, multilingual vision-language systems
+- 📡 Also exploring: ML-based optimization for 5G networks
+- 📫 Open to research collaborations and interesting problems
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1B1035,100:F08A5D" width="100%"/>
+</p>
+
+<!-- ========================================================= -->
+<!--                     CURRENTLY                              -->
+<!-- ========================================================= -->
+
+## Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Building**
+
+```text
+→ AI / ML projects
+→ full-stack applications
+→ experimental prototypes
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Exploring**
+
+```text
+→ NLP
+→ Large Language Models
+→ Multimodal AI
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ========================================================= -->
+<!--                   WHAT I LIKE BUILDING                     -->
+<!-- ========================================================= -->
+
+## What I Like Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Intelligent Systems**
+
+ML models, NLP pipelines, recommendation systems, and LLM-powered applications.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Products**
+
+Web applications, dashboards, and APIs that take an idea from concept to something people can actually use.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧪 Research Experiments**
+
+Small models, prototypes, and side experiments built mainly to answer a specific question.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Hackathon Builds**
+
+Fast iteration under a deadline, turning a problem statement into a working prototype.
+
+</td>
+</tr>
+</table>
+
+*(Pinned repositories below have the specifics — this is just the general shape of what I work on.)*
+
+---
+
+<!-- ========================================================= -->
+<!--                       TOOLKIT                              -->
+<!-- ========================================================= -->
+
+## Toolkit
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql&theme=dark" />
+</p>
+
+**AI / Data**
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>
+
+`NumPy` · `Pandas` · `Keras` · `Matplotlib` · `Plotly` · `MLflow`
+
+**Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,nodejs,bootstrap,tailwind,firebase,mongodb,mysql&theme=dark" />
+</p>
+
+**Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,linux,latex&theme=dark" />
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                     HOW I APPROACH THINGS                  -->
+<!-- ========================================================= -->
+
+## How I Usually Get There
+
+```text
+   interesting problem
+           │
+           ▼
+   "can I build this?"
+           │
+           ▼
+        build it
+           │
+           ▼
+        break it
+           │
+           ▼
+   figure out why it broke
+           │
+           ▼
+        fix it
+           │
+           ▼
+        ship it
+```
+
+---
+
+<!-- ========================================================= -->
+<!--                     QUIETLY SERIOUS SECTION                -->
+<!-- ========================================================= -->
+
+## There's More Here Than the Landing Page Suggests
+
+Some of what I'm currently interested in sits a little deeper than a typical project list.
+
+```text
+Natural Language Processing
+Large Language Models
+Multimodal Intelligence
+Responsible AI
+Model Behaviour
+Human-AI Interaction
+```
+
+I'm drawn to questions where the answer isn't immediately obvious — especially the ones that make me ask *"why did the model do that?"* rather than just *"did it work?"*
+
+---
+
+<!-- ========================================================= -->
+<!--                       EXPERIENCE                           -->
+<!-- ========================================================= -->
+
+## Along the Way
+
+```text
+SSN College of Engineering
+        │
+        ├── Information Technology
+        │
+        ├── Software Engineering
+        │
+        ├── Machine Learning
+        │
+        └── AI Research & Experiments
+                 │
+                 ▼
+          final year, still building
+```
+
+I've had the chance to work across software engineering, applied AI, and academic research — independently and as part of teams.
+
+---
+
+<!-- ========================================================= -->
+<!--                     OPEN SOURCE                            -->
+<!-- ========================================================= -->
+
+## Open Source & Community
+
+I like learning in public — contributing to open-source projects, working with student technical communities, and taking part in hackathons when the problem statement is interesting enough.
+
+`Open Source` · `AI Communities` · `Hackathons` · `Collaborative Projects`
+
+<details>
+<summary>🔐 A small aside.</summary>
+
+<br>
+
+```text
+There are two kinds of bugs.
+
+1. The ones you know how to fix.
+2. The ones you pretend aren't happening.
+
+I specialize in discovering #2 at 2:13 AM.
+```
+
+</details>
+
+---
+
+<!-- ========================================================= -->
+<!--                    BEYOND CODE                             -->
+<!-- ========================================================= -->
+
+## Outside the Terminal
+
+When I'm not working, I'm usually:
+
+- 📚 Reading a mystery novel
+- 🎹 Playing piano
+- 🎨 Painting, with mixed results
+- ⛩️ Watching anime
+- 🎧 Listening to kpop, across generations — not just the newer groups
+- 🕵️ Trying to out-guess the detective before the reveal
+
+> Agatha Christie taught me that the obvious answer is usually the one worth questioning.
+
+---
+
+<!-- ========================================================= -->
+<!--                    CONNECT                                 -->
+<!-- ========================================================= -->
+
+## Let's Talk
+
+If you're interested in AI, ML, NLP, research, or hackathons, I'm always happy to talk.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/saathvigab/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:saathviga9605@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Saathviga9605">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B1035,50:6A2C70,100:F08A5D" width="100%"/>
+</p>
