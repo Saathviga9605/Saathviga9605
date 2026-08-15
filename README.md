@@ -14,7 +14,7 @@
 |  LEVEL   : Final Year (4/4)                              |
 |  TITLE   : "Still Building"                              |
 +----------------------------------------------------------+
-|  HP  [####################] 100%  (caffeine-fed)         |
+|  HP  [####################] 100%  (playlists fueled)     |
 |  MP  [################----]  85%  (mid-experiment)       |
 +----------------------------------------------------------+
 |  SKILLS  : AI/ML, NLP, Vision-Language Models            |
